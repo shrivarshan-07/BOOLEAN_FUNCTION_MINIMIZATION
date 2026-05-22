@@ -63,12 +63,12 @@ endmodule
 
 
 
-**Output: RTL realization**
+**RTL:**
 
 <img width="712" height="821" alt="Screenshot 2026-05-21 183723" src="https://github.com/user-attachments/assets/7fb7194f-a2c0-4d94-b578-a936535a0373" />
 
 
-**RTL**
+**Output : Timing diagram**
 <img width="1918" height="545" alt="Screenshot 2026-05-21 184144" src="https://github.com/user-attachments/assets/3ccfb514-902c-4be8-9e8b-b4c436c1e55a" />
 
 **Result:**

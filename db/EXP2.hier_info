@@ -1,0 +1,37 @@
+|EXP2
+A => F1~3.IN0
+A => F1~9.IN0
+A => F1~0.IN0
+B => F1~9.IN1
+B => F1~13.IN0
+B => F1~6.IN0
+B => F1~0.IN1
+C => F1~6.IN1
+C => F1~10.IN1
+C => F1~13.IN1
+C => F1~3.IN1
+C => F1~1.IN1
+D => F1~11.IN1
+D => F1~14.IN1
+D => F1~7.IN1
+D => F1~4.IN1
+D => F1~2.IN1
+w => F2~8.IN0
+w => F2~11.IN0
+w => F2~5.IN0
+x => F2~0.IN0
+x => F2~5.IN1
+x => F2~11.IN1
+x => F2~8.IN1
+x => F2~2.IN0
+y => F2~6.IN1
+y => F2~9.IN1
+y => F2~12.IN1
+y => F2~2.IN1
+y => F2~0.IN1
+z => F2~1.IN1
+z => F2~3.IN1
+F1 <= F1~15.DB_MAX_OUTPUT_PORT_TYPE
+F2 <= F2~13.DB_MAX_OUTPUT_PORT_TYPE
+
+
